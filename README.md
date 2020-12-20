@@ -1,5 +1,5 @@
 # ak_lab7
-##checkpatch hello1.c
+## checkpatch hello1.c
 
 ![](https://github.com/Gronario/ak_lab7/blob/main/Screenshots/1.png)
 
